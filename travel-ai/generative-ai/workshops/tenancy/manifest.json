@@ -1,5 +1,5 @@
 {
-  "workshoptitle": "Generative AI for Travel",
+  "workshoptitle": "Generative AI for Travel with Oracle APEX and DB",
   "include": {  
     "iam-compartment-create-body.md": "https://raw.githubusercontent.com/oracle-livelabs/common/main/building-blocks/tasks/iam/compartment-create-body.md",
     "adb-goto-service-body.md": "https://raw.githubusercontent.com/oracle-livelabs/common/main/building-blocks/tasks/adb/goto-service-body.md",
@@ -51,7 +51,7 @@
       "filename": "../../ai-oda-create/ai-oda-create.md"
     },
     {
-      "title": "Lab 9: Oracle APEX Integration with ODA",
+      "title": "Lab 9: Adding Oracle Digital Assistant Chatbot",
       "filename": "../../ai-oda-apex-ui/ai-oda-apex-ui.md"
     },
     {
